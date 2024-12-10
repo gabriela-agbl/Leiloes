@@ -40,7 +40,7 @@ Este é um sistema básico de leilões, desenvolvido em Java com integração a 
      CREATE TABLE produtos (id INT AUTO_INCREMENT PRIMARY KEY, nome VARCHAR(100) NOT NULL, valor INT NOT NULL, status VARCHAR(20) DEFAULT 'A Venda');
      
 3. **Configure a conexão com o bando de dados**:
-   - Edite o arquivo _conectaDAO.java_ para ajustar as credenciais do bando de dados:
+   - Edite o arquivo `conectaDAO.java` para ajustar as credenciais do bando de dados:
      ```java
      conn = DriverManager.getConnection("jdbc:mysql://localhost/uc11?user=root&password=");
      
