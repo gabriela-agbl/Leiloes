@@ -13,7 +13,7 @@
 - **Gerenciamento de Leilões**: Altera o status dos produtos para "vendido" após realizar uma venda.
 - **Persistência de Dados**: Utiliza o banco de dados MySQL para armazenar informações.
 
-<div aling="center">
+<div align="center">
    <h2>🛠️ Tecnologias Utilizadas</h2>
 </div>
 
@@ -60,7 +60,7 @@
    - Importe o projeto em sua IDE(por exemplo, NetBeans).
    - Compile e execute a classe principal para iniciar o sistema.
 
-<div aling="center">
+<div align="center">
    <h2>📂 Estrutura do Projeto</h2>
 </div>
 
