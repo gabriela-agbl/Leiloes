@@ -40,7 +40,7 @@
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/Agbl09/Leiloes.git
+   git clone https://github.com/gabriela-agbl/Leiloes.git
 
 2. **Configure o banco de dados**:
    - Crie um banco de dados chamado uc11:
@@ -97,7 +97,7 @@ Leiloes/
 
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
-   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+   Feito por [Gabriela Rodrigues](https://github.com/gabriela-agbl)
    
 ![](https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM4NDU5ODIsIm5iZiI6MTczMzg0NTY4MiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU0OTctNDlhYmQzY2EtYjA0OC00ZjI3LWI3ZTAtZWE2YTdiMTcyYWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEwVDE1NDgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZDJhOGYzNTc1ODEyODkxODIyNzFkNmU3YmM0MjExYTFkODk1NzVkZWNjOGEwMWEwNWU4MjQwMWY5YThlYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dv2KEqB-SIvKq2rtlRGr-BhMmV1z88s_yorB61xAkso)
 
